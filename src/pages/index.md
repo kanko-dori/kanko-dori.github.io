@@ -9,7 +9,6 @@ description: "kankodori(閑古鳥) is development team that started with a frien
 kankodori(閑古鳥) is development team that started with a friend.
 We love Hackathon!
 
-
 ## GOODS
 
 公式グッズを作りました  
